@@ -1,0 +1,19 @@
+body{
+    background-color: #524c98;
+    color: #9fe9d2;
+}
+h1{
+    color: white;
+    background-color: coral;
+    border-radius: 30px;
+    width: 500px;
+}
+h3{
+    color: white;
+    background-color:cornflowerblue;
+    border-radius: 30px;
+}
+#msg{
+    background-color: black;
+    width: 200px;
+}
